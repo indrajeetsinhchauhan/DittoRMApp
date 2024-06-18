@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DittoRMApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_download">Download</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="title_history">History</string>
+    <string name="nav_header_email">user@example.com</string>
+    <string name="nav_header_username">Username</string>
+    <string name="nav_header_profile_image_description">User profile image</string>
+    <string name="logout">Logout</string>
+    <string name="app_info">App info</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="faq">FAQ</string>
+    <string name="settings">Settings</string>
+    <string name="general">General</string>
+    <string name="slider_image">Slider Image</string>
+</resources>
